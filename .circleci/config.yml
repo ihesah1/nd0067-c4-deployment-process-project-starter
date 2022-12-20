@@ -39,7 +39,7 @@ jobs:
       - checkout
       - node/install:
           node-version: '14.21.1'
-      - aws-cli/install
+      - aws-cli/setup
       # install dependencies
       - run:
           name: Angular CLI Dependencies
