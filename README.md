@@ -2,7 +2,7 @@
 
 ### Web application link
 ```
-    http://hessahlocal.s3-website-us-east-1.amazonaws.com/home
+    http://hessahlocal.s3-website-us-east-1.amazonaws.com
 ```
 
 
